@@ -84,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Felipe Millacura"
+  name             : "Felipe A. Millacura"
   avatar           : "/images/bio-pic-2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Concepción, Chile"
